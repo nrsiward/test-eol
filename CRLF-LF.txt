@@ -1,0 +1,2 @@
+this line ends with CRLF
+this line ends with LF
