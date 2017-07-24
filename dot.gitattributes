@@ -1,3 +1,9 @@
-# * text=auto
+# [attr]text eol=lf
+* text=auto
 # *.txt text
 # *.txt text eol=lf
+# *.html text eol=lf
+
+#[core]
+#	autocrlf=input
+#	eol=lf
